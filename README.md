@@ -19,8 +19,6 @@ And scan the QR code in the Expo client app.
 - Recipes Details Screen
 - Photo Gallery
 - Detailed Description
-- Ingredients button
-- Ingredients List
 - Recipes by Ingredient
 - Search
 - Drawer Menu
